@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'et-line';
-	src:url('http://www.anaconsultmar.com/wp-content/themes/business-kit/assets/fonts/et-line.eot');
-	src:url('http://www.anaconsultmar.com/wp-content/themes/business-kit/assets/fonts/et-line.eot#iefix') format('embedded-opentype'),
-		url('http://www.anaconsultmar.com/wp-content/themes/business-kit/assets/fonts/et-line.woff') format('woff'),
-		url('http://www.anaconsultmar.com/wp-content/themes/business-kit/assets/fonts/et-line.ttf') format('truetype'),
-		url('http://www.anaconsultmar.com/wp-content/themes/business-kit/assets/fonts/et-line.svg#et-line') format('svg');
+	src:url('http://ANA-STATIC-TEST.STORE/wp-content/themes/business-kit/assets/fonts/et-line.eot');
+	src:url('http://ANA-STATIC-TEST.STORE/wp-content/themes/business-kit/assets/fonts/et-line.eot#iefix') format('embedded-opentype'),
+		url('http://ANA-STATIC-TEST.STORE/wp-content/themes/business-kit/assets/fonts/et-line.woff') format('woff'),
+		url('http://ANA-STATIC-TEST.STORE/wp-content/themes/business-kit/assets/fonts/et-line.ttf') format('truetype'),
+		url('http://ANA-STATIC-TEST.STORE/wp-content/themes/business-kit/assets/fonts/et-line.svg#et-line') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

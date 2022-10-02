@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ANAConsultmar</title>
-	<atom:link href="http://www.anaconsultmar.com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.anaconsultmar.com/</link>
+	<atom:link href="http://ANA-STATIC-TEST.STORE/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ANA-STATIC-TEST.STORE/</link>
 	<description>Welcome those whose PRIORITY is environment, safety and quality! </description>
 	<lastBuildDate>Thu, 04 Oct 2018 15:54:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>http://www.anaconsultmar.com/wp-content/uploads/2018/10/cropped-Logo-white-32x32.jpg</url>
+	<url>http://ANA-STATIC-TEST.STORE/wp-content/uploads/2018/10/cropped-Logo-white-32x32.jpg</url>
 	<title>ANAConsultmar</title>
-	<link>http://www.anaconsultmar.com/</link>
+	<link>http://ANA-STATIC-TEST.STORE/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Blog Post Title</title>
-		<link>http://www.anaconsultmar.com/hello-world/</link>
-					<comments>http://www.anaconsultmar.com/hello-world/#respond</comments>
+		<link>http://ANA-STATIC-TEST.STORE/hello-world/</link>
+					<comments>http://ANA-STATIC-TEST.STORE/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Oct 2018 15:54:17 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://www.anaconsultmar.com/?p=1</guid>
+		<guid isPermaLink="false">http://ANA-STATIC-TEST.STORE/?p=1</guid>
 
 					<description><![CDATA[What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.]]></description>
 										<content:encoded><![CDATA[<p>What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. </p>
 <p>Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.anaconsultmar.com/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://ANA-STATIC-TEST.STORE/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
